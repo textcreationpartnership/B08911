@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The musical entertainments in the tragedy of Rinaldo and Armida all compos'd by Mr. John Eccles and writ by Mr. Dennis.</title>
+            <author>Dennis, John, 1657-1734.</author>
+         </titleStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08911</idno><idno type="EEBO-CITATION">62369155</idno>
+  <idno type="VID">187868</idno>
+  <idno type="EEBO-PROQUEST">2240867890</idno>
+  
+            <idno type="STC">Wing D1036A</idno>
+            <idno type="STC">ESTC R203727</idno>
+            <idno type="OCLC">62369155</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B08911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187868)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2847:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The musical entertainments in the tragedy of Rinaldo and Armida all compos'd by Mr. John Eccles and writ by Mr. Dennis.</title>
+                  <author>Dennis, John, 1657-1734.</author>
+                  <author>Eccles, John, d. 1735.</author>
+                  <author>Dennis, John, 1657-1734. Rinaldo and Armida.</author>
+               </titleStmt>
+               <extent>[6], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jacob Tonson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Musical entertainments taken from Dennis' Rinaldo and Armida.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Operas --  Librettos --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187868:1"/>
+            <pb facs="tcp:187868:1"/>
+            <pb facs="tcp:187868:2"/>
+            <pb facs="tcp:187868:2"/>
+            <p>THE Musical Entertainments IN THE TRAGEDY OF <hi>RINALDO</hi> and <hi>ARMIDA:All Compos'd by Mr.</hi> JOHN ECCLES, <hi>and Writ by Mr.</hi> DENNIS.</p>
+            <q>
+               <p>Sit tibi Musa Lyrae Solers &amp; Cantor <hi>Apollo.</hi>
+               </p>
+               <bibl>
+                  <hi>Horace.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Jacob Tonson</hi> at the <hi>Judge's Head</hi> near the <hi>Inner-Temple-Gate</hi> in <hi>Fleetstreet,</hi> and at <hi>Gray's Inn-Gate</hi> in <hi>Gray's-Inn-Lane.</hi> 1699.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:187868:3"/>
+            <pb facs="tcp:187868:3"/>
+            <head>PREFACE.</head>
+            <p>THough the Tragedy of <hi>Rinaldo</hi> and <hi>Armida,</hi> of which the following Lines are a Part, has gone in the World under the Name of an <hi>Opera;</hi> yet is neither the Dramatical Part of it, like the Drama of our usual <hi>Opera</hi>'s, nor the Musical part of it like that which is Sung and Play'd in those Entertainments: For all the Musick in this Play, even the Musick between the Acts, is part of the Tragedy, and for that Reason the Musick is always Pathetick. Now no<g ref="char:EOLhyphen"/>thing can entertain the Imagination very a<g ref="char:EOLhyphen"/>greeably but that which moves some Passion, and moves it very much too: For nothing
+<pb facs="tcp:187868:4"/>can very much please the Fancy, but that which puts the Spirits into an Extraordinary Motion; which extraordinary Motion is Pas<g ref="char:EOLhyphen"/>sion, and for that Reason, those who are very Old, by reason of the Chilness and Coldness of their Bloods, which as it were congreals their Spirits, are very rarely or never extreamly pleas'd. The Design therefore of Musick, as well as Painting and Poetry, being to enter<g ref="char:EOLhyphen"/>tain the Imagination agreeably, nothing in Mu<g ref="char:EOLhyphen"/>sick can be extreamly Fine but what is ex<g ref="char:EOLhyphen"/>treamly Moving: And Experience has con<g ref="char:EOLhyphen"/>firm'd me in this Opinion, by so much fine Musick as I heard in <hi>Italy,</hi> both in their Churches and Theatres. Now as nothing can be very Pleasing but what is very Moving, so nothing that is very Moving can be Moving long. For whether it proceeds from a Defect of Mind or Body, the Passions if they are Languid are not Delightful, and if they are Violent are not Lasting. I found therefore, that in a Musical Entertainment of length,
+<pb facs="tcp:187868:4"/>Variety of Passion, as well as Passion would be absolutely necessary.</p>
+            <p>In the following Lines therefore, I design'd not only to move Passion, but as many Passi<g ref="char:EOLhyphen"/>ons as I could successively without doing violence to my subject, as Admiration, Love and Joy, Anger, Compassion, Terror, Grief, Horror, Astonishment and Despair. How clearly, how fully, and how admirably Mr. <hi>Eccles</hi> has ex<g ref="char:EOLhyphen"/>pressed those Passions I leave to the World to Judge, which has loudly on this Occasion, done justice to his Merit, even before the Play has been Acted. One thing I can say my self, of which I suppose I may be allow'd to be a com<g ref="char:EOLhyphen"/>petent Judge, that he has every where so throughly enter'd into my design, that if I had not known him very well, I should have often wonder'd at it. I am so much oblig'd to him for the Care and Pains which he has taken in this Composition, that the least Acknow<g ref="char:EOLhyphen"/>ledgment which I can make him, is to defend him against the Malice of some who have ac<g ref="char:EOLhyphen"/>cus'd
+<pb facs="tcp:187868:5"/>him of borrowing a Chorus in the Fourth Act, from the Frost Scene of Mr. <hi>Henry Purcell.</hi> That great Master has been ac<g ref="char:EOLhyphen"/>cus'd himself of borrowing that very Musick from <hi>Lully.</hi> I say not this with a design to Vindicate Mr. <hi>Eccles</hi> by Recrimination, but only to shew that there has been always Ma<g ref="char:EOLhyphen"/>lice in the World. I have a better way of De<g ref="char:EOLhyphen"/>fending Mr. <hi>Eccles,</hi> for the Chorus which he is pretended to have borrow'd from Mr. <hi>Purcell,</hi> is by much inferiour to Two others in the same Entertainment, that of the Winds and the last. If therefore he has borrow'd the Worst from Mr. <hi>Henry Purcell,</hi> I would ask his Accusers from whom he has borrow'd the Best?</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:187868:5"/>
+            <head>THE Vocal and Instrumental MUSICK IN THE <hi>Tragedy of</hi> Rinaldo <hi>and</hi> Armida.</head>
+            <div type="introduction">
+               <p>THE Musick between the Acts in this Play is part of the Action of the Play, and therefore for the better distinguishing the Acts, the Reader is desir'd to take Notice, that when at any time the Stage is quite Empty, then is the End of an Act.</p>
+               <p>The Action of the Play begins with the Be<g ref="char:EOLhyphen"/>ginning of the Overture, which is a Trumpet-Tune, supposed to be Play'd by the Good Spirits who have the Conduct and Care of the Action, and the Guardianship of the Persons concern'd in it.</p>
+            </div>
+            <div n="1" type="act">
+               <pb n="2" facs="tcp:187868:6"/>
+               <head>ACT I.</head>
+               <stage>Symphony.</stage>
+               <p>
+                  <hi>SOng by one of</hi> Armida<hi>'s Spirits, while the Enchanted Palace is suppos'd at some lit<g ref="char:EOLhyphen"/>tle distance to Rise.</hi>
+               </p>
+               <lg>
+                  <l>Ye mighty Powers who Rule the Air,</l>
+                  <l>Ye Gods who in the Ocean dwell,</l>
+                  <l>And ye who at the Center govern Hell,</l>
+                  <l>Hither at great <hi>Armida</hi>'s Call repair;</l>
+                  <l>And while by your Command these Tow'rs arise,</l>
+                  <l>Till with unequal Pomp and State,</l>
+                  <l>Their soaring Heads salute the Skies,</l>
+                  <l>Shew those above that Hell can too create.</l>
+               </lg>
+               <p>
+                  <hi>The Musical Entertainment in the First Act, is supposed to be Play'd and Sung by Spirits in the Shapes of Shepherds and Shepherdesses, who vo<g ref="char:EOLhyphen"/>luntarily, and unknown to</hi> Armida, <hi>attempt to seduce the Christians who came to free</hi> Rinaldo <hi>from their Power.</hi>
+               </p>
+               <pb n="3" facs="tcp:187868:6"/>
+               <stage>Overture.</stage>
+               <sp>
+                  <speaker>Shep.</speaker>
+                  <l>Welcome to these Lovely Plains,</l>
+                  <l>The happy Seats of Blissful Swains.</l>
+               </sp>
+               <stage>Ritornelle.</stage>
+               <sp>
+                  <speaker>Nym.</speaker>
+                  <l>Welcome to these blissful Shades,</l>
+                  <l>The soft Retreats of Happy Maids.</l>
+               </sp>
+               <stage>Ritornelle.</stage>
+               <lg>
+                  <l>
+                     <note place="margin">Song in 3 Parts.</note>Here we feel no want nor Care,</l>
+                  <l>And no Inclemency of Air,</l>
+                  <l>And Lovers never here Despair.</l>
+               </lg>
+               <stage>Ritornelle.</stage>
+               <sp>
+                  <speaker>Shep.</speaker>
+                  <l>Sorrow ever from us flies,</l>
+                  <l>Pleasure revels in our Eyes.</l>
+                  <l>If we pass an Hour in Courting</l>
+                  <l>'Tis for more Delicious sporting,</l>
+                  <l>Never cruel Nymph denies.</l>
+               </sp>
+               <stage>Ritornelle.</stage>
+               <sp>
+                  <speaker>Nym.</speaker>
+                  <l>If any thing like Sorrow's seen</l>
+                  <l>In our Voice, or in our Meen,</l>
+                  <pb n="4" facs="tcp:187868:7"/>
+                  <l>'Tis not Grief that gives the Anguish,</l>
+                  <l>'Tis with Pleasure that we languish;</l>
+                  <l>And if ever Nymph denies,</l>
+                  <l>'Tis like one in Love who's Wise;</l>
+                  <l>'Tis like one who would invite</l>
+                  <l>To more delicate Delight,</l>
+                  <l>'Tis with wishing, dying Eyes.</l>
+               </sp>
+               <stage>Ritornelle.</stage>
+               <stage>Chorus <hi>of Shepherds and Nymphs.</hi>
+               </stage>
+               <l>All about us and above</l>
+               <l>Gaiety and Love inspires;</l>
+               <l>All about us and above</l>
+               <l>Infuses Tenderness and Love,</l>
+               <l>And wanton fine Desires.</l>
+               <sp>
+                  <speaker>Shep.</speaker>
+                  <l>The Jolly Breeze,</l>
+                  <l>That comes whistling through the Trees,</l>
+                  <l>From all the blissful Region brings</l>
+                  <l>Perfumes upon its spicy Wings,</l>
+                  <l>With its wanton motion curling.</l>
+                  <l>The Crystal Rills,</l>
+                  <l>Which down the Hills</l>
+                  <l>Run o'er golden Gravel purling.</l>
+               </sp>
+               <pb n="5" facs="tcp:187868:7"/>
+               <sp>
+                  <speaker>Nym.</speaker>
+                  <l>All around Venereal Turtles</l>
+                  <l>Cooing, Billing, on the Myrtles;</l>
+                  <l>The more they shew their Amorous trouble,</l>
+                  <l>More fiercely dart their piercing Kisses,</l>
+                  <l>And more eagerly redouble</l>
+                  <l>The Raptures of their murmuring Blisses.</l>
+               </sp>
+               <p>
+                  <hi>The Musick betwixt the First and Second Acts, begins with a Trumpet Tune, suppos'd to be play'd by the same Spirits who play'd the</hi> Over<g ref="char:EOLhyphen"/>ture, <hi>but changes with the Scene to soft Musick, and falls gradually to softer, and at last Drowzy Musick, which continues very softly the first Ten or Twelve Lines of the Second Act.</hi>
+               </p>
+            </div>
+            <div n="2" type="act">
+               <pb n="6" facs="tcp:187868:8"/>
+               <head>ACT II.</head>
+               <p>THe Musical Entertainment in this Act, is made by Dreams that at <hi>Armida</hi>'s Com<g ref="char:EOLhyphen"/>mand appear in order to the Terrifying <hi>Rinaldo,</hi> in the Shapes of <hi>Bertoldo</hi> and <hi>Sophia,</hi> Parents to the Heroe; and in the likeness of several whom <hi>Rinaldo</hi> had Slain in Battle.</p>
+               <sp>
+                  <speaker>Bert.</speaker>
+                  <p>
+                     <hi>Rinaldo!</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Soph.</speaker>
+                  <p>
+                     <hi>Rinaldo!</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bert.</speaker>
+                  <l>Look up, Behold the Mournfull Shade</l>
+                  <l>Of him who gave thee Breath,</l>
+                  <l>Who steps to see thee, while thou'rt laid</l>
+                  <l>upon the Confines here of Death.</l>
+                  <l>T'inform thee of thy future State,</l>
+                  <l>And e're yet it be too late</l>
+                  <l>To prevent thy wretched Fate.</l>
+               </sp>
+               <sp>
+                  <speaker>Soph.</speaker>
+                  <l>Look up my Son, Look up on me</l>
+                  <l>In me th' Aflicted <hi>Sophia</hi> see,</l>
+                  <l>Ah Son! not all the grinding throws,</l>
+                  <l>With which, when thou wert born,</l>
+                  <l>My Tortur'd Nerves were torn,</l>
+                  <pb n="7" facs="tcp:187868:8"/>
+                  <l>Equall'd half the wracking woes,</l>
+                  <l>Which now thy Mother undergoes,</l>
+                  <l>Thou Darling of my Soul, for thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Bert.</speaker>
+                  <l>Last night I cast a Look</l>
+                  <l>Ʋpon Fates dreadful Book,</l>
+                  <l>And read a Lesson which no Brain</l>
+                  <l>That is Mortal can Sustain,</l>
+                  <l>While all my Soul with Horrour shook.</l>
+               </sp>
+               <sp>
+                  <speaker>Soph.</speaker>
+                  <l>Oh! the distraction of the sight</l>
+                  <l>And Oh! the Torments of the fright</l>
+                  <l>I never, never shall forget that Night.</l>
+               </sp>
+               <sp>
+                  <speaker>Bert.</speaker>
+                  <l>Rowze all thy Faculties my Son,</l>
+                  <l>And to my Fatal words give ear,</l>
+                  <l>For know that they concern thee near;</l>
+                  <l>No longer let thy Fancy run</l>
+                  <l>After that Aiery Fantom Fame;</l>
+                  <l>But Love <hi>Armida</hi> with a constant Flame:</l>
+                  <l>Or destiny decrees,</l>
+                  <l>Thou shalt feel woes, which but to hear</l>
+                  <l>Would distract thy Soul with fear,</l>
+                  <l>And all thy Blood with Horrour freeze,</l>
+               </sp>
+               <sp>
+                  <speaker>Soph.</speaker>
+                  <l>Ah! see around the Raving Hosts</l>
+                  <l>Of purple Ghosts;</l>
+                  <pb n="8" facs="tcp:187868:9"/>
+                  <l>Whose Blood thou hast in Battle spilt,</l>
+                  <l>With fearful Guilt.</l>
+                  <l>Who, unless aw'd by her Commanding pow'r,</l>
+                  <l>Would, ah, this Moment, tear thee and devour!</l>
+               </sp>
+               <sp>
+                  <speaker>Bert.</speaker>
+                  <lg>
+                     <l>How they advance with whirling Brands,</l>
+                     <l>All flaming in their threatning Hands!</l>
+                     <l>And as they go their dreadful Round,</l>
+                     <l>Revenge, Revenge, Resound!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Chorus of Spirits.</speaker>
+                  <lg>
+                     <l>For Revenge, for Revenge, to <hi>Armida</hi> we call,</l>
+                     <l>That we terribly may on our Murderer fall; him,</l>
+                     <l>That as now we with Sulphurous Torches surround wound him;</l>
+                     <l>We with our Screams and our Scorpions may</l>
+                     <l>And with astonishing Horrors confound him.</l>
+                  </lg>
+               </sp>
+               <lg>
+                  <head>SONG.</head>
+                  <l>
+                     <hi>Rinaldo,</hi> in the Enchanted Grove</l>
+                  <l>Prepare to meet immortal Love;</l>
+                  <l>Straight to the Bow'r of Bliss repair,</l>
+                  <l>
+                     <hi>Fortune</hi> and <hi>Fame</hi> attend thee there.</l>
+               </lg>
+               <pb n="9" facs="tcp:187868:9"/>
+               <p>The Act-Tune of this Second Act begins with Terrible Musick, supposed to be Play'd by the Infernal Spirits, partly at <hi>Armida</hi>'s command, and partly to express their Resentment for <hi>Rinaldo</hi>'s Behaviour. With the Scene the Musick changes to Soft and Gay.</p>
+            </div>
+            <div n="3" type="act">
+               <head>ACT III.</head>
+               <p>THe Musical Entertainment in this Act is made by Spirits, who at <hi>Armida</hi>'s com<g ref="char:EOLhyphen"/>mand, appear to Entertain <hi>Rinaldo</hi> in the Shapes of <hi>Venus, Cupid,</hi> and a Chorus of Loves. <hi>Venus</hi> is discover'd reclin'd on a Couch, with her At<g ref="char:EOLhyphen"/>tendants of Loves about her; and Singing in soft complaining Notes.</p>
+               <stage>Symphony of Flutes.</stage>
+               <sp>
+                  <speaker>Ven.</speaker>
+                  <l>
+                     <hi>Cupid,</hi> come to the Relief</l>
+                  <l>Of thy Mother's piercing Grief;</l>
+                  <l>Hither quickly, <hi>Cupid,</hi> fly;</l>
+                  <l>With thee bring thy keenest Dart,</l>
+                  <l>To subdue a Rebel Heart,</l>
+                  <l>Thou art Scorn'd as well as I.</l>
+               </sp>
+               <pb n="8" facs="tcp:187868:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:187868:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:187868:11"/>
+               <stage>Ritornelle.</stage>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Come <hi>Cupid,</hi> on thy Golden Wing,</l>
+                  <l>And in thy sounding Quiver bring</l>
+                  <l>Pernicious Arrows, wing'd with Fire,</l>
+                  <l>T'inflict incurable Desire.</l>
+               </sp>
+               <stage>Symphony.</stage>
+               <l>
+                  <note place="margin">
+                     <hi>Cupid</hi> fly<g ref="char:EOLhyphen"/>ing down</note>Thus flying thro' the Balmy Air,</l>
+               <l>To my great Parent I repair;</l>
+               <l>And tho' the World's maintain'd by me,</l>
+               <l>Yet, Mother, to attend on thee,</l>
+               <l>I leave the mighty Care.</l>
+               <sp>
+                  <speaker>Ven.</speaker>
+                  <l>A Mortal in this Fragrant Bow'r,</l>
+                  <l>Presumes that he's above our Pow'r.</l>
+               </sp>
+               <sp>
+                  <speaker>Cup.</speaker>
+                  <l>I'll make that Mortal know,</l>
+                  <l>That none too Great for Love can grow:</l>
+                  <l>I tame the mighty Pow'rs above,</l>
+                  <l>And cruel Gods below.</l>
+               </sp>
+               <stage>Ritornelle.</stage>
+               <l>Great <hi>Jove,</hi> whose Arms the Lightning flung,</l>
+               <l>Has felt my fiercer Fire,</l>
+               <pb n="11" facs="tcp:187868:11"/>
+               <l>And Hell's Inexorable King</l>
+               <l>Has yielded to Desire.</l>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Great <hi>Jove,</hi> whose Arms the Lightning flung,</l>
+                  <l>Has felt thy fiercer Fire, <hi>&amp;c.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Cup.</speaker>
+                  <l>Now quickly thro' th'Enchanted Grove,</l>
+                  <l>Let all my nimble Brethren Rove.</l>
+               </sp>
+               <stage>Dance</stage>
+               <sp>
+                  <speaker>Ven.</speaker>
+                  <l>Let Earth, and Air, and Flood, and Fire,</l>
+                  <l>And ev'ry thing around conspire</l>
+                  <l>To breath forth soft and sweet Desire.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Repeats this.</p>
+               </sp>
+               <p>
+                  <hi>In the Musick between this and the Fourth Act, the Instruments express the Alarm that the Infernal Regions take at</hi> Rinaldo<hi>'s Departure.</hi>
+               </p>
+            </div>
+            <div n="4" type="act">
+               <pb n="12" facs="tcp:187868:12"/>
+               <head>ACT IV.</head>
+               <p>
+                  <hi>THE Entertainment of this Act is by Spi<g ref="char:EOLhyphen"/>rits, that come to Revenge the Injury that</hi> Rinaldo <hi>is thought by them to have done to</hi> Ar<g ref="char:EOLhyphen"/>mida.</p>
+               <p>Thunder <hi>and</hi> Lightning, <hi>Spirit comes forward and Sings.</hi>
+               </p>
+               <stage>Symphony.</stage>
+               <sp>
+                  <speaker>Spir.</speaker>
+                  <l>Ye Spirits that dwell in Earth, Fire, and Air,</l>
+                  <l>Hither, Hither, Hither, Hither, hurrying repair:</l>
+                  <l>Behold your great Mistress, <hi>Armida</hi>'s betray'd,</l>
+                  <l>Hither, hither, hither, Hurry all to her Aid.</l>
+               </sp>
+               <stage>Ritornelle.</stage>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Lo, from Earth, from Hell, and from Sky,</l>
+                  <l>With Vengeance laden we fly.</l>
+               </sp>
+               <sp>
+                  <speaker>Spir.</speaker>
+                  <l>Ye Friends that are lurking in Graves,</l>
+                  <l>Or gliding in Vaulted Caves,</l>
+                  <pb n="13" facs="tcp:187868:12"/>
+                  <l>All working amain in your Holes,</l>
+                  <l>Heave, Heave up the Crumbling Earth like Moles.</l>
+                  <l>Till the Mountain shakes,</l>
+                  <l>And the Rock its Basis forsakes,</l>
+                  <l>And the Heart of the Traytor quakes.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>'Tis done, see the Mountain shakes,</l>
+                  <l>And the Rock its Basis forsakes.</l>
+               </sp>
+               <sp>
+                  <speaker>Spir.</speaker>
+                  <l>Ye Pow'rs who govern the Air,</l>
+                  <l>Let nought but Confusion be there;</l>
+                  <l>Haste to send forth</l>
+                  <l>The stormy North,</l>
+                  <l>And unbind the Deep Mouth</l>
+                  <l>Of the Blustring South:</l>
+                  <l>Let them blow, let them blow, till with Fury they Roar,</l>
+                  <l>And ambitious old Ocean disdains the Shore.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Hark how they blow! Hark how they blow!</l>
+                  <l>If they go on thro' the Void they will sweep</l>
+                  <l>The Heav'ns, the Earth, and the Deep,</l>
+                  <l>And the World into Chaos will throw!</l>
+               </sp>
+               <sp>
+                  <speaker>Spir.</speaker>
+                  <l>Now flying in Crowds,</l>
+                  <l>Charge, Charge all your Clouds,</l>
+                  <l>Charge them all with Destructive Thunder,</l>
+                  <pb n="14" facs="tcp:187868:13"/>
+                  <l>Let it roar, till it rends the Vast all asunder.</l>
+                  <l>Let the Lightning fearfully blaze,</l>
+                  <l>Till Mortals who gaze,</l>
+                  <l>Fall Dead at the terrible Wonder.</l>
+               </sp>
+               <stage>
+                  <hi>Thunder</hi> and <hi>Lightning.</hi>
+               </stage>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>'Tis done, 'tis done, and we shake</l>
+                  <l>At the dire Confusion we make.</l>
+               </sp>
+               <sp>
+                  <speaker>Spir.</speaker>
+                  <l>Ye Furies who Reign in Ʋnquenchable Fires,</l>
+                  <l>To the sound of your Yells tune your Horrible Lyres;</l>
+                  <l>And give us that Musick by which you Redouble</l>
+                  <l>The Horrors of Hell, and unspeakable Trouble.</l>
+               </sp>
+               <stage>Infernal Symphony.</stage>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>'Tis done.</p>
+               </sp>
+               <sp>
+                  <speaker>Spir.</speaker>
+                  <p>Now add to the Symphony clinking of Chains.</p>
+               </sp>
+               <stage>Noise of Chains.</stage>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>'Tis done.</p>
+               </sp>
+               <sp>
+                  <speaker>Spir.</speaker>
+                  <p>Add the Howls of the Damn'd, in the height of their Pains;</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>'Tis done.</p>
+               </sp>
+               <sp>
+                  <speaker>Spir.</speaker>
+                  <p>Add their Scream and their Roar, and their Serpentine Hiss;</p>
+               </sp>
+               <pb n="15" facs="tcp:187868:13"/>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>'Tis done.</p>
+               </sp>
+               <sp>
+                  <speaker>Spir.</speaker>
+                  <l>Let <hi>Lucifer</hi>'s Thunder now answer to this,</l>
+                  <l>And Bellow alternately thro' the Abyss.</l>
+               </sp>
+               <stage>
+                  <hi>Thunder</hi> and <hi>Lightning.</hi>
+               </stage>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>'Tis done, and 'tis past our pow'r to know,</l>
+                  <l>Whither this be <hi>Chaos</hi> or no?</l>
+               </sp>
+               <p>
+                  <hi>In the Musick between this and the Fifth Act, the Spirits attending on</hi> Armida, <hi>express their Grief for the Calamity which has befall'n her.</hi>
+               </p>
+            </div>
+            <div n="5" type="act">
+               <head>ACT V.</head>
+               <lg>
+                  <head>SONG.</head>
+                  <l>Ah Queen! Ah wretched Queen, give o'er!</l>
+                  <l>Cease, Cease with hopeless Fires to burn,</l>
+                  <l>Ah cease his Absence to deplore!</l>
+                  <l>Who now, ev'n now forsakes the Shore,</l>
+                  <l>And never, never will return,</l>
+                  <l>No, never see thee move.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:187868:14"/>
+               <pb facs="tcp:187868:14"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
